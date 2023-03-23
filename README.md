@@ -17,7 +17,7 @@ You need a working JDK with JavaFX libraries to compile/use the library. The cod
 
 ### Using the library
 
-Add dependency to your project using [jitpack.io](https://jitpack.io/#Artyom-IWT/JavaFXSmartGraph).
+Add dependency to your project using [jitpack.io](https://jitpack.io/#Artyom-IWT/JavaFXSmartGraph/1.1).
 
 The visualization library can be used together with any ADT that adheres to the `Graph<V,E>` or `Digraph<V,E>` interfaces. Sample implementations are included.
 
