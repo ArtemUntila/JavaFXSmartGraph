@@ -1,5 +1,7 @@
 # (JavaFX) SmartGraph
 
+[![](https://jitpack.io/v/Artyom-IWT/JavaFXSmartGraph.svg)](https://jitpack.io/#Artyom-IWT/JavaFXSmartGraph)
+
 This project provides a generic (Java FX) **graph visualization library** that can automatically arrange the vertices' locations
 through a [force-directed algorithm](https://en.wikipedia.org/wiki/Force-directed_graph_drawing) in real-time.
 
@@ -15,7 +17,7 @@ You need a working JDK with JavaFX libraries to compile/use the library. The cod
 
 ### Using the library
 
-Check the `releases` folder for compiled library and source code. The **jar** library is the only requirement, but if you need to attach the *javadoc* and *source code* in your IDE, additionally use the **zip** file.
+Add dependency to your project using [jitpack.io](https://jitpack.io/#Artyom-IWT/JavaFXSmartGraph/1.1).
 
 The visualization library can be used together with any ADT that adheres to the `Graph<V,E>` or `Digraph<V,E>` interfaces. Sample implementations are included.
 
